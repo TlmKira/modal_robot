@@ -56,3 +56,17 @@ evaluation/C_qualified_union.json
 !/results/C_data_quality/C_dataset_readiness.md
 !/results/C_data_quality/summary.json
 !/results/C_data_quality/demonstrations.csv
+# Original machine resume files and unreviewed configuration stay local.
+/README_RESUME.md
+/STOP_SAVE_CHECK.txt
+/configs/*
+!/configs/aloha_gr00t_modality.py
+!/configs/aloha_modality.json
+!/configs/upstream_lock.json
+!/configs/dataset_split_manifest.json
+!/configs/C_blind_evaluation_base0_v2.json
+!/configs/C_training_proposal_v1.json
+!/configs/C_data_environment_lock.json
+!/configs/gr00t_packages.txt
+!/configs/robotwin_packages.txt
+!/configs/conversion_packages.txt
