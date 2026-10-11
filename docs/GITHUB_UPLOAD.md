@@ -2,7 +2,7 @@
 
 Target remote: https://github.com/TlmKira/modal_robot.git
 
-The CPU host has a local main branch with reviewed source, documentation and experiment summaries. A push was attempted and failed because Git could not obtain GitHub authentication. No successful GitHub upload has been verified. Do not place access tokens in project files or chat.
+The CPU host has a local main branch with reviewed source, documentation and experiment summaries. The first push was blocked by missing authentication. After the user configured authentication, main was successfully pushed to the target repository on 2026-10-11. Do not place access tokens in project files or chat.
 
 Authenticate safely using your GitHub-approved credential mechanism, then:
 
