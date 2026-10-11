@@ -1,0 +1,32 @@
+{
+  "new_qualified": 50,
+  "source_attempt_records": 149,
+  "rejection_counts": {
+    "base1 excluded; separate planning issue": 79,
+    "official expert planning/task/limits failed": 15,
+    "replay/hold/contact/collision/gripper QC failed": 5
+  },
+  "initial_x_range_m": [
+    -0.04603029042482376,
+    0.04871327430009842
+  ],
+  "initial_y_range_m": [
+    -0.049772802740335464,
+    0.049308665096759796
+  ],
+  "yaw_range_rad": [
+    1.2041382034700459,
+    1.9511746214775985
+  ],
+  "new_raw_bytes": 1728366180,
+  "C_training_episodes": 90,
+  "C_training_real_anchors": 11098,
+  "new_real_anchors": 6654,
+  "old_real_anchors": 4444,
+  "RGB_first_frame_checks": 300,
+  "RGB_MAE_mean": 1.040495847800926,
+  "max_RGB_MAE": 1.1964670138888889,
+  "statistics_train_only": true,
+  "synthetic_conditioning_anchors": 0,
+  "B_checkpoint_videos_unchanged": true
+}

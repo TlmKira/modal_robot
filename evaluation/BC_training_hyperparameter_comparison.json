@@ -1,0 +1,42 @@
+{
+  "global_batch_size": {
+    "B": 4,
+    "C": 4,
+    "equal": true
+  },
+  "gradient_accumulation_steps": {
+    "B": 4,
+    "C": 4,
+    "equal": true
+  },
+  "learning_rate": {
+    "B": 0.0001,
+    "C": 0.0001,
+    "equal": true
+  },
+  "max_steps": {
+    "B": 2000,
+    "C": 2000,
+    "equal": true
+  },
+  "warmup_ratio": {
+    "B": 0.05,
+    "C": 0.05,
+    "equal": true
+  },
+  "weight_decay": {
+    "B": 1e-05,
+    "C": 1e-05,
+    "equal": true
+  },
+  "bf16": {
+    "B": true,
+    "C": true,
+    "equal": true
+  },
+  "lr_scheduler_type": {
+    "B": "cosine",
+    "C": "cosine",
+    "equal": true
+  }
+}

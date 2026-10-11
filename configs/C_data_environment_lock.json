@@ -1,0 +1,12 @@
+{
+  "RoboTwin": "ea8b21121ebb3cd201ff5b3fe361944ac94eda3f",
+  "Isaac-GR00T": "d2b7e75b937e3ec9aa5dbc798f08b89692c49734",
+  "scripts": {
+    "C_collect_qualified.py": "d2c49e2df58576af88e2a453684bc05aa0db5ad2531d2936b7b80b386be83124",
+    "build_C_dataset.py": "5c54bfa33e98a4b45d66a985ce1cdb808c90a705aa0258ad639dbfc177f46e64",
+    "check_C_dataset.py": "135ffb1e41d93d091455abe712fccb0dc4e78e104eeb6bc16757f02d832516c9",
+    "prepare_C_after_collection.sh": "da4f4da1cde805f5061874b54ed8b73bcea807d99eddc9994f49fed7f55c6b9c",
+    "C_finish_preparation.py": "0bc7bb1cc2cb8f3d20b0e8c82f6935b2871c70fd73b065ecc30cb8792ac4f399"
+  },
+  "note": "No package or framework upgrades performed; collectors have source hashes in per-run configuration.json, first collector predates optional worker CLI flags."
+}

@@ -1,0 +1,14 @@
+{
+  "B": {
+    "requested": 20,
+    "official_successes": 0,
+    "hold_2s_successes": 0,
+    "errors": 0
+  },
+  "C": {
+    "requested": 20,
+    "official_successes": 9,
+    "hold_2s_successes": 6,
+    "errors": 0
+  }
+}

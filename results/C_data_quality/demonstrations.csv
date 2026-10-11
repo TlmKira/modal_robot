@@ -1,0 +1,150 @@
+seed,source,model_id,accepted,reason,original_official_success,replay_official_success,hold_official_all,hold_both_contact_s,collision_ticks,gripper_closed_final,frames,physics_ticks,file,wall_s
+310005,existing_candidate,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed310005.hdf5,86.05020549800247
+310009,existing_candidate,0,True,qualified,True,True,True,2.0,0,True,135,2010,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed310009.hdf5,62.45568302413449
+310010,existing_candidate,0,True,qualified,True,True,True,2.0,0,True,131,1950,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed310010.hdf5,55.69759507291019
+310011,existing_candidate,0,True,qualified,True,True,True,2.0,0,True,134,1995,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed310011.hdf5,59.48223001603037
+320000,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,17.51508398493752
+320001,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,20.047249145805836
+320002,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.132443266920745
+320003,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.00159271573648
+320004,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.03601999208331
+320005,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,137,2040,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320005.hdf5,90.32376997126266
+320006,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.576468913815916
+320007,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,33.18278983887285
+320008,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,135,2010,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320008.hdf5,73.94903426384553
+320009,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,22.639577670954168
+320010,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.835506549105048
+320011,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.427434893790632
+320012,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,28.869256892241538
+320013,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,26.762900915928185
+320014,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,24.44092152407393
+320015,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.431280198972672
+320016,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,134,1995,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320016.hdf5,86.24588639987633
+320017,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,29.89495259989053
+320018,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.439511048141867
+320019,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,22.666814032942057
+320020,official_expert_new,0,False,replay/hold/contact/collision/gripper QC failed,True,True,True,2.0,579,True,137,2040,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/rejected_seed320020.hdf5,84.83297804230824
+320021,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,135,2010,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320021.hdf5,78.6915860469453
+320022,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.59100282844156
+320023,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,20.503880560863763
+320024,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,38.21995510486886
+320025,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320025.hdf5,93.77774635981768
+320026,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,135,2010,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320026.hdf5,72.9895636998117
+320027,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320027.hdf5,80.34395637409762
+320028,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.627692540641874
+320029,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,20.2151937703602
+320030,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320030.hdf5,82.94976023910567
+320031,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.560832120943815
+320032,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320032.hdf5,76.39058758225292
+320033,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,20.482904843986034
+320034,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.25140378717333
+320035,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,26.980209867935628
+320036,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,27.438094957731664
+320037,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320037.hdf5,79.89499828312546
+320038,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.990383172873408
+320039,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,23.228652572724968
+320040,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,28.190995012875646
+320041,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,29.053719468880445
+320042,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.65292459540069
+320043,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,28.016273024026304
+320044,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,26.058012226130813
+320045,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320045.hdf5,85.82039205497131
+320046,official_expert_new,0,False,official expert planning/task/limits failed,True,,,,,,,,,35.87969476496801
+320047,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.912144240923226
+320048,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,137,2040,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320048.hdf5,81.15133222192526
+320049,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.697255132254213
+320050,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,29.850512159988284
+320051,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,137,2040,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320051.hdf5,86.86455851467326
+320052,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_v1/accepted_seed320052.hdf5,94.0981506020762
+330000,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,35.5311780218035
+330001,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.33273944677785
+330002,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,22.04802952799946
+330003,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330003.hdf5,96.22222906909883
+330004,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,131,1950,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330004.hdf5,88.5050388071686
+330005,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,23.781702009029686
+330006,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.35663792490959
+330007,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,28.6290028761141
+330008,official_expert_new,0,False,official expert planning/task/limits failed,True,,,,,,,,,25.104962800163776
+330009,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330009.hdf5,75.93175437999889
+330010,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,20.031949296128005
+330011,official_expert_new,0,False,replay/hold/contact/collision/gripper QC failed,True,True,True,2.0,560,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/rejected_seed330011.hdf5,75.47274292400107
+330012,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330012.hdf5,91.38549969205633
+330013,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330013.hdf5,86.18338747275993
+330014,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330014.hdf5,81.38936455314979
+330015,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.215512451715767
+330016,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.551276514772326
+330017,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330017.hdf5,85.94148973980919
+330018,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,138,2055,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330018.hdf5,100.43275938695297
+330019,official_expert_new,0,False,official expert planning/task/limits failed,True,,,,,,,,,23.010610510595143
+330020,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,26.10181391891092
+330021,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.446894618682563
+330022,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330022.hdf5,86.2556346138008
+330023,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.862288624048233
+330024,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,134,1995,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330024.hdf5,79.14618018222973
+330025,official_expert_new,0,False,replay/hold/contact/collision/gripper QC failed,True,True,True,2.0,572,True,140,2085,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/rejected_seed330025.hdf5,73.38264176715165
+330026,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330026.hdf5,77.7620397079736
+330027,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,22.278260902967304
+330028,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,138,2055,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330028.hdf5,74.62114792782813
+330029,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,22.285560165997595
+330030,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.935684632975608
+330031,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.45960035175085
+330032,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330032.hdf5,81.12529990402982
+330033,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,131,1950,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330033.hdf5,78.45568547490984
+330034,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,134,1995,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330034.hdf5,84.33099227910861
+330035,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.634218110702932
+330036,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.390012905932963
+330037,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.033337372355163
+330038,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,26.248407003004104
+330039,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.24307449394837
+330040,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,23.910249578766525
+330041,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,30.372881800867617
+330042,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.98143365001306
+330043,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.71805582009256
+330044,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,132,1965,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker2/accepted_seed330044.hdf5,88.37415789114311
+340000,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340000.hdf5,92.28196450788528
+340001,official_expert_new,0,False,replay/hold/contact/collision/gripper QC failed,True,True,True,2.0,537,True,139,2070,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/rejected_seed340001.hdf5,85.42172888992354
+340002,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340002.hdf5,91.39752733707428
+340003,official_expert_new,0,False,official expert planning/task/limits failed,True,,,,,,,,,24.82724619563669
+340004,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,27.11947499215603
+340005,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340005.hdf5,71.38544915709645
+340006,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,140,2085,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340006.hdf5,79.47661145590246
+340007,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,131,1950,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340007.hdf5,77.37182601820678
+340008,official_expert_new,0,False,official expert planning/task/limits failed,True,,,,,,,,,33.24122652364895
+340009,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,30.983216099906713
+340010,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340010.hdf5,87.07459504716098
+340011,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,23.57892120303586
+340012,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,27.33494118368253
+340013,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,29.009592802729458
+340014,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.492907776031643
+340015,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,28.198213727679104
+340016,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,131,1950,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340016.hdf5,84.87962868483737
+340017,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,131,1950,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340017.hdf5,97.45377739612013
+340018,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,21.401122049894184
+340019,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340019.hdf5,77.49830925092101
+340020,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.085972036700696
+340021,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,31.083934327587485
+340022,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,24.785975976847112
+340023,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.178691468201578
+340024,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,17.017691139597446
+340025,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.68325985688716
+340026,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,34.464405208826065
+340027,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,21.089503339026123
+340028,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,19.2943267528899
+340029,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,26.56406320212409
+340030,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,23.729972562287003
+340031,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,25.36002215091139
+340032,official_expert_new,0,False,replay/hold/contact/collision/gripper QC failed,True,True,True,2.0,537,True,138,2055,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/rejected_seed340032.hdf5,78.1624680813402
+340033,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.583058312069625
+340034,official_expert_new,0,False,official expert planning/task/limits failed,False,,,,,,,,,26.936653102282435
+340035,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,21.41516508627683
+340036,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,28.277899294160306
+340037,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,135,2010,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340037.hdf5,69.24450510600582
+340038,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,137,2040,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340038.hdf5,79.25828512525186
+340039,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,24.8615228459239
+340040,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,21.534544033929706
+340041,official_expert_new,1,False,base1 excluded; separate planning issue,,,,,,,,,,18.978368521202356
+340042,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,133,1980,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340042.hdf5,88.26407179515809
+340043,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,136,2025,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340043.hdf5,69.94125297479331
+340044,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,135,2010,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340044.hdf5,77.7401804109104
+340045,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,140,2085,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340045.hdf5,88.24152164906263
+340046,official_expert_new,0,True,qualified,True,True,True,2.0,0,True,134,1995,/workspace/GR00T_DualArm_Project/datasets/lift_pot_C_qualified_worker3/accepted_seed340046.hdf5,93.33513261284679

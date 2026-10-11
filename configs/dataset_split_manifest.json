@@ -1,0 +1,384 @@
+{
+  "split_seed": 20261010,
+  "evaluation_scene_seeds": [
+    200000,
+    200001,
+    200002,
+    200003,
+    200004,
+    200005,
+    200006,
+    200007,
+    200008,
+    200009,
+    200010,
+    200011,
+    200012,
+    200013,
+    200014,
+    200015,
+    200016,
+    200017,
+    200018,
+    200019
+  ],
+  "source_sampling_note": "Official conversion uses 15Hz; legacy save_freq=15 at 250Hz implies nominal 16.67Hz plus boundary samples. Exact per-frame timestamps absent.",
+  "splits": {
+    "train": [
+      {
+        "episode_index": 0,
+        "source_episode": 8,
+        "source_seed": 15,
+        "converted_episode": 48,
+        "frames": 112
+      },
+      {
+        "episode_index": 1,
+        "source_episode": 37,
+        "source_seed": 75,
+        "converted_episode": 31,
+        "frames": 111
+      },
+      {
+        "episode_index": 2,
+        "source_episode": 45,
+        "source_seed": 104,
+        "converted_episode": 40,
+        "frames": 107
+      },
+      {
+        "episode_index": 3,
+        "source_episode": 22,
+        "source_seed": 47,
+        "converted_episode": 15,
+        "frames": 109
+      },
+      {
+        "episode_index": 4,
+        "source_episode": 4,
+        "source_seed": 4,
+        "converted_episode": 34,
+        "frames": 108
+      },
+      {
+        "episode_index": 5,
+        "source_episode": 3,
+        "source_seed": 3,
+        "converted_episode": 23,
+        "frames": 106
+      },
+      {
+        "episode_index": 6,
+        "source_episode": 12,
+        "source_seed": 22,
+        "converted_episode": 4,
+        "frames": 107
+      },
+      {
+        "episode_index": 7,
+        "source_episode": 20,
+        "source_seed": 42,
+        "converted_episode": 13,
+        "frames": 111
+      },
+      {
+        "episode_index": 8,
+        "source_episode": 39,
+        "source_seed": 91,
+        "converted_episode": 33,
+        "frames": 112
+      },
+      {
+        "episode_index": 9,
+        "source_episode": 32,
+        "source_seed": 67,
+        "converted_episode": 26,
+        "frames": 118
+      },
+      {
+        "episode_index": 10,
+        "source_episode": 36,
+        "source_seed": 74,
+        "converted_episode": 30,
+        "frames": 115
+      },
+      {
+        "episode_index": 11,
+        "source_episode": 33,
+        "source_seed": 69,
+        "converted_episode": 27,
+        "frames": 114
+      },
+      {
+        "episode_index": 12,
+        "source_episode": 15,
+        "source_seed": 32,
+        "converted_episode": 7,
+        "frames": 111
+      },
+      {
+        "episode_index": 13,
+        "source_episode": 40,
+        "source_seed": 95,
+        "converted_episode": 35,
+        "frames": 108
+      },
+      {
+        "episode_index": 14,
+        "source_episode": 24,
+        "source_seed": 50,
+        "converted_episode": 17,
+        "frames": 111
+      },
+      {
+        "episode_index": 15,
+        "source_episode": 30,
+        "source_seed": 63,
+        "converted_episode": 24,
+        "frames": 112
+      },
+      {
+        "episode_index": 16,
+        "source_episode": 2,
+        "source_seed": 2,
+        "converted_episode": 12,
+        "frames": 115
+      },
+      {
+        "episode_index": 17,
+        "source_episode": 43,
+        "source_seed": 101,
+        "converted_episode": 38,
+        "frames": 107
+      },
+      {
+        "episode_index": 18,
+        "source_episode": 16,
+        "source_seed": 35,
+        "converted_episode": 8,
+        "frames": 116
+      },
+      {
+        "episode_index": 19,
+        "source_episode": 46,
+        "source_seed": 106,
+        "converted_episode": 41,
+        "frames": 112
+      },
+      {
+        "episode_index": 20,
+        "source_episode": 1,
+        "source_seed": 1,
+        "converted_episode": 1,
+        "frames": 113
+      },
+      {
+        "episode_index": 21,
+        "source_episode": 49,
+        "source_seed": 111,
+        "converted_episode": 44,
+        "frames": 112
+      },
+      {
+        "episode_index": 22,
+        "source_episode": 6,
+        "source_seed": 11,
+        "converted_episode": 46,
+        "frames": 110
+      },
+      {
+        "episode_index": 23,
+        "source_episode": 11,
+        "source_seed": 21,
+        "converted_episode": 3,
+        "frames": 113
+      },
+      {
+        "episode_index": 24,
+        "source_episode": 41,
+        "source_seed": 98,
+        "converted_episode": 36,
+        "frames": 112
+      },
+      {
+        "episode_index": 25,
+        "source_episode": 17,
+        "source_seed": 36,
+        "converted_episode": 9,
+        "frames": 107
+      },
+      {
+        "episode_index": 26,
+        "source_episode": 44,
+        "source_seed": 103,
+        "converted_episode": 39,
+        "frames": 108
+      },
+      {
+        "episode_index": 27,
+        "source_episode": 14,
+        "source_seed": 28,
+        "converted_episode": 6,
+        "frames": 115
+      },
+      {
+        "episode_index": 28,
+        "source_episode": 13,
+        "source_seed": 26,
+        "converted_episode": 5,
+        "frames": 111
+      },
+      {
+        "episode_index": 29,
+        "source_episode": 42,
+        "source_seed": 99,
+        "converted_episode": 37,
+        "frames": 114
+      },
+      {
+        "episode_index": 30,
+        "source_episode": 26,
+        "source_seed": 54,
+        "converted_episode": 19,
+        "frames": 109
+      },
+      {
+        "episode_index": 31,
+        "source_episode": 34,
+        "source_seed": 71,
+        "converted_episode": 28,
+        "frames": 110
+      },
+      {
+        "episode_index": 32,
+        "source_episode": 7,
+        "source_seed": 13,
+        "converted_episode": 47,
+        "frames": 108
+      },
+      {
+        "episode_index": 33,
+        "source_episode": 25,
+        "source_seed": 51,
+        "converted_episode": 18,
+        "frames": 107
+      },
+      {
+        "episode_index": 34,
+        "source_episode": 38,
+        "source_seed": 84,
+        "converted_episode": 32,
+        "frames": 114
+      },
+      {
+        "episode_index": 35,
+        "source_episode": 0,
+        "source_seed": 0,
+        "converted_episode": 0,
+        "frames": 113
+      },
+      {
+        "episode_index": 36,
+        "source_episode": 35,
+        "source_seed": 72,
+        "converted_episode": 29,
+        "frames": 107
+      },
+      {
+        "episode_index": 37,
+        "source_episode": 48,
+        "source_seed": 109,
+        "converted_episode": 43,
+        "frames": 114
+      },
+      {
+        "episode_index": 38,
+        "source_episode": 18,
+        "source_seed": 37,
+        "converted_episode": 10,
+        "frames": 114
+      },
+      {
+        "episode_index": 39,
+        "source_episode": 19,
+        "source_seed": 39,
+        "converted_episode": 11,
+        "frames": 111
+      }
+    ],
+    "validation": [
+      {
+        "episode_index": 0,
+        "source_episode": 5,
+        "source_seed": 6,
+        "converted_episode": 45,
+        "frames": 111
+      },
+      {
+        "episode_index": 1,
+        "source_episode": 9,
+        "source_seed": 16,
+        "converted_episode": 49,
+        "frames": 108
+      },
+      {
+        "episode_index": 2,
+        "source_episode": 27,
+        "source_seed": 56,
+        "converted_episode": 20,
+        "frames": 112
+      },
+      {
+        "episode_index": 3,
+        "source_episode": 31,
+        "source_seed": 65,
+        "converted_episode": 25,
+        "frames": 114
+      },
+      {
+        "episode_index": 4,
+        "source_episode": 28,
+        "source_seed": 58,
+        "converted_episode": 21,
+        "frames": 111
+      }
+    ],
+    "test": [
+      {
+        "episode_index": 0,
+        "source_episode": 23,
+        "source_seed": 48,
+        "converted_episode": 16,
+        "frames": 108
+      },
+      {
+        "episode_index": 1,
+        "source_episode": 10,
+        "source_seed": 19,
+        "converted_episode": 2,
+        "frames": 116
+      },
+      {
+        "episode_index": 2,
+        "source_episode": 47,
+        "source_seed": 107,
+        "converted_episode": 42,
+        "frames": 112
+      },
+      {
+        "episode_index": 3,
+        "source_episode": 21,
+        "source_seed": 43,
+        "converted_episode": 14,
+        "frames": 107
+      },
+      {
+        "episode_index": 4,
+        "source_episode": 29,
+        "source_seed": 60,
+        "converted_episode": 22,
+        "frames": 111
+      }
+    ]
+  }
+}
